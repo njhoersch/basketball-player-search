@@ -1,0 +1,33 @@
+.search-container {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+    color: white;
+    justify-content: center;
+    align-items: center;
+}
+
+.search-title {
+    font-size: 30pt;
+    margin-bottom: 100px;
+}
+
+.label {
+    font-size: 20pt;
+    padding: 10px 0px;
+}
+
+.text-box {
+    width: 60%;
+    height: 5%;
+    font-size: 20pt;
+    text-align: center;
+}
+
+.search-button {
+    margin-top: 100px;
+    width: 30%;
+    height: 5%;
+    font-size: 20pt;
+}
